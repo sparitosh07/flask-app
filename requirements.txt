@@ -244,7 +244,7 @@ tornado==5.1.1
 tqdm==4.28.1
 traitlets==4.3.2
 Tubes==0.2.0
-Twisted==19.2.1
+Twisted==19.7.0
 typing==3.7.4
 uber-rides==0.6.0
 unicodecsv==0.14.1
